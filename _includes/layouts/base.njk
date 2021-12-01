@@ -24,16 +24,11 @@
 
     <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
 
-      <!-- Delete this message -->
-      <div class="warning">
-        <ol>
-          <li>Edit the <code>_data/metadata.json</code> with your blog’s information.</li>
-          <li>(Optional) Edit <code>.eleventy.js</code> with your <a href="https://www.11ty.dev/docs/config/">configuration preferences</a>.</li>
-          <li>Delete this message from <code>_includes/layouts/base.njk</code>.</li>
-        </ol>
-        <p><em>This is an <a href="https://www.11ty.dev/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a>.</em></p>
-      </div>
-      <!-- Stop deleting -->
+    <div>
+      <p>
+        Hi, I’m Andy. The goal of this site is to create a collection of introductions to important topics and life lessons for my kids and anyone else who may be interested. There’s so much that I want them to know and understand about the world that school does not often cover. Many of the articles cover complex topics that I do not claim to be an expert in. I expect I’ll make some mistakes in the articles, which I plan to revise as I continue to learn.
+      </p>
+    </div>
 
       {{ content | safe }}
     </main>
