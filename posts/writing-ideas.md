@@ -83,6 +83,15 @@ Make sure to connect the articles that are related even if by only a link
 
 [https://twitter.com/TrungTPhan/status/1444684286955687945?s=19](https://twitter.com/TrungTPhan/status/1444684286955687945?s=19)
 
+
+**Pages to Create**
+- create a principles, values, and observations page
+   - https://mobile.twitter.com/sahilbloom/status/1456969261839228936
+   - maybe include sayings and quotes in the above
+   - simplicity in these things might really be more helpful than we realize. Things like patience and gratitude sound like overly simplistic words, but they are two key cores to profound relationships especially in terms of raising children and parenting.
+   - https://twitter.com/david_perell/status/1259597720752291841?t=7buysyV9XTKqi9WRyb48sA&s=19
+
+
 **People**
 
 

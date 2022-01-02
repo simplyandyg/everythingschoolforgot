@@ -225,6 +225,8 @@ I understand this may seem excessive. I don't expect anyone to do it all. Not ev
 
 ### What is clean eating?
 
+Clean eating means eating whole, unprocessed foods. Ideally it means doing so as a lifestyle choice and not as a short-term, quick fix diet. 
+
 Not eating processed food.
 
 Honestly, that's pretty much all there is to it. But I'll expand upon it anyway.
@@ -233,18 +235,42 @@ Yo-yo dieting and crash diets
 
 It's a lifestyle choice more than it is a diet. And it's a guideline more than it is a hard and fast rule.
 
-### Why is clean eating important?
+### Why is a clean eating lifestyle important?
+#### Clean eating often makes it easier to maintain a healthy weight. 
 
-### How do I develop a clean eating lifestyle?
+Whole, unprocessed foods don't have added sugar and aren't fried in fatty oils. Sugar (carbs) and oil (fats) are not inherently bad for you. They are in pretty much everything we eat whether natural or unnatural. But processed foods tend to be unnaturally jam-packed with them. It's this overabundance of macronutrients and therefore calories that contributes to why eating processed foods makes it so easy to consume too many calories. Excess calories combined with suspect ingredients and the fact that processed foods are often literally engineered to make you want to eat more all create the perfect storm for an unhealthy diet.
 
-Crash diets are not what I mean by eating well. Everyone loves losing weight fast. Many people go back to unhealthy eating habits after a crash diet. This leaves you very likely to gain back the weight. Not to mention being at risk for any number of health problems.
+#### Clean eating helps us eat calories packed with vitamins and nutrients.
+It is much easier to avoid eating "empty" calories when eating whole, unprocessed foods as plenty of processed food options provide little to no nutritional value other than the calories themselves. These nutrient dense foods help us to stay healthy in a number of ways. They help keep our vital organs, including our brain and heart operating as best they can.
 
-Eating well is simpler than many make it sound. People tend to push fad diets. People tend to be fanatical about their lifestyle diets. I'm not saying fad diets don't work. I'm not saying lifestyle diets don't work. I'm saying it is possible to avoid being a zealot while maintaining healthy eating habits by following a few simple guidelines. The common denominator between different diet fanatics is to avoid processed foods. Eating whole, unprocessed foods is your guideline to lifelong healthy eating habits. I think vegetables, fruits, meats, fish, etc. are all fine as long as they are not processed.
-
-If you struggle to lose weight or consistently find yourself feeling sick, nauseous, run-down, tired, dizzy, etc, you should seek out help from professionals. You may have a slight allergy to a food, which may only show up in you as lethargy and not a violent reaction. Consider finding including a doctor who specializes in diet-based medicine.
+#### Clean eating helps us stay generally healthy.
+Clean eating can help reduce inflammation, fatigue, and a number of other chronic health issues and may even help alleviate some chronic illnesses.
 
 There is scientific evidence to support a food-based approach to many health issues. I have heard of diseases going into remission with eating better. Keep in mind, some people still need medical intervention no matter how clean and smart they eat.
 
+If you struggle to lose weight or consistently find yourself feeling sick, nauseous, run-down, tired, dizzy, etc, you should seek out help from professionals. You may have a slight allergy to a food, which may only show up in you as lethargy and not a violent reaction. You could consider finding a doctor who specializes in diet-based medicine.
+
+#### Can clean eating help me lose weight?
+Absolutely. It's not impossible to overeat when eating clean. Like any food choice, you can consume too many calories when eating clean. However, in general, it is more difficult to consume excess calories when eating clean than when eating processed foods. (Look for study to back this up). By this I mean, snacking on strawberries instead of Oreos will likely lead to consuming fewer calories.
+
+This means by simply switching to clean eating many people will be consuming less calories each day, which is the core concept behind trying to lose weight. Add exercise on top of that, and you've found a great recipe for becoming healthier.
+
+NOTE FOR ME:
+Why section might be done. Sort through the bottom and see if there is more to add. If not, move on to how
+
+### How do I develop a clean eating lifestyle?
+Shop at the edges of the grocery store. The middle is generally all processed food. And no, organic does not mean whole, unprocessed food.
+
+Explain whole food vs organic at some point.
+
+Misc:
+
+Crash diets are not what I mean by eating well. Everyone loves losing weight fast. Many people go back to unhealthy eating habits after a crash diet. This leaves you very likely to gain back the weight. Not to mention being at risk for any number of health problems.
+
+_put the below in How_
+Eating well is simpler than many make it sound. People tend to push fad diets. People tend to be fanatical about their lifestyle diets. I'm not saying fad diets don't work. I'm not saying lifestyle diets don't work. I'm saying it is possible to avoid being a zealot while maintaining healthy eating habits by following a few simple guidelines. The common denominator between different diet fanatics is to avoid processed foods. Eating whole, unprocessed foods is your guideline to lifelong healthy eating habits. I think vegetables, fruits, meats, fish, etc. are all fine as long as they are not processed.
+
+_in how?_
 Consider taking a quality multivitamin. Some people will argue healthy adults eating a healthy, balanced diet do not need one. They may be right. But if it isn't doing harm, why not hedge your bets? According to studies, a multivitamin may also have a positive effect on mental health. I specify a "quality" multivitamin for a reason. The government does not regulate the vitamin and supplement industry. Leading some companies to be inaccurate with the labels on their vitamin and supplement products. This is why you should choose a vitamin from a company you trust.
 
 Why unprocessed, whole foods?
