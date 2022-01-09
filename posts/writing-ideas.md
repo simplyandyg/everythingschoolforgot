@@ -48,6 +48,7 @@ If you could only teach someone 5 things. What would you teach them?
   - should the above be part of an article on decision making? I think writing to think deeply has merit on its own aside from decision making. For things like therapy, introspection, learning, etc.
   - maybe simply reference it in a decision making article
 - Don't be mentally lazy. We often over estimate the amount of effort and time required to complete relatively simple tasks while underestimating large ones (e.g. entire projects)
+- better to sell forgiveness than ask for permission - obviously context matters
 - Knowledge depth vs. Surface knowledge. Surface knowledge is something anyone can learn with a quick Google search. And today's world where the internet is everywhere surface knowledge is becoming less and less useful. Deep knowledge however is becoming more and more important and valuable. As is being able to make connections and insights across fields or disciplines often thanks to the deep knowledge one holds.
 - Compounding
 - Beginner's mind
