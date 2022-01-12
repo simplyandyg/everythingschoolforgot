@@ -34,6 +34,7 @@ If you could only teach someone 5 things. What would you teach them?
 - Do the right thing
 - Why doing the right thing can so often have difficult or hurtful consequences - why making people upset doesn’t mean you necessarily did the wrong thing - why often you can try to become a better person and it feels impossible because things keep going wrong and how to deal with it
 - How to focus and really get things done and how hard work doesn't need to mean working all the time, but rather working hard during the allotted time
+- It's very easy to get caught up in things that feel productive at least partly because we desire to be in a flow state
 - Never let yourself live in fear - give lots of examples - fear of making people angry, fear your spouse will be upset with you, fear of failure, do not let fear rule your life
 - How to balance perfection with production
 - Meditate or at least time for your mind to relax and to wander. No screens, no music (unless calming), no input. Let yourself be calm and bored. Give your mind time to relax, especially in today's world
