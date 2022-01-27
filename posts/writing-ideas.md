@@ -5,22 +5,26 @@ eleventyExcludeFromCollections: true
 
 a series on all the things I would like Mikey to know and understand in life, especially should anything ever happen to me
 
+Look into this writing framework more:
+https://twitter.com/JustinSaaS/status/1486473719723831306?t=KDxXoi-XcuHRJjE07e-4Kg&s=19
+
 For each topic, maybe I should be approaching it with the following framework:
-
-
 
 * What is it? Why is it important? How do you do it?
 * Biggest thing: given actionable points to make the advice easier to follow
 
+
 What's the 1 percent?
 
-
-
 * This is the 1 percent of the topic that the other 99% hinges on
+
 
 What are the absolute most important things someone should know about life?
 
 If you could only teach someone 5 things. What would you teach them?
+
+Stop and smell the roses. Learn to appreciate what you have
+Fish looking for the ocean story
 
 1. Hard work/self motivation
 2. Perseverance
@@ -29,11 +33,16 @@ If you could only teach someone 5 things. What would you teach them?
 5. Empathy
 
 Next 5
-6. Deep work and focus
+6. Deep work and focus (and saying no)
 7. Critical thinking - https://twitter.com/therealjohntan/status/1483799497125859332?s=20
 8. Exercise?
 9. Do the right thing
-10.
+10. Self regulation and self discipline
+
+Next 5
+11. Conflict resolution
+12. How to figure out if you like something or actually want to do it - see frameworks
+13. Patience
 
 
 - Sleep, exercise, diet
@@ -93,6 +102,8 @@ Next 5
 - balance your needs and wants with the needs and wants of others because if you plan on having kids, then they will and should become number 1, but until then don't let another's wants come before yours. It's okay to split 50/50 but if you are in a relationship and your partner's needs continually come before your own then you either need to reevaluate your relationship or have a friend discussion with your partner and figure out if a 50/50 split is doable or if you need to leave the relationship. Because there are a lot of things that likely you won't be able to do for years once you have the kids. And that's totally fine because having kids is great. But take chances and truly live life prior to having kids. People tell you to do this and they say to travel and they say to have fun, but they don't really explain that. Don't just travel go on adventures. Do things that you would never do if you had a 3-year-old with you. You wouldn't go skydiving with a 3-year-old attached to your hip. You wouldn't go on a 3-week track through the Appalachians with a 3-year-old. You wouldn't go on a week-long snowboarding hike with a 3-year-old. You wouldn't travel through Europe with no plan with a 3-year-old. These are the kinds of travel you should be doing. Yes going to a beach and sitting there for a week is amazing especially when you work all the time. But it's something that you can do with a 3-year-old. But maybe not that might be a good one to do too because with kids you're not going to just relax. And if you have a spouse who isn't into activities that you've really enjoy, it's okay to enjoy those activities without your spouse. If you loved going on rock climbing trips before meeting the person you're with, then it's okay to continue doing that once you are together. Now should you use all of your vacation time on rock climbing trips that they will not enjoy No. But if you have 2 weeks of vacation time of year I think it's okay to spend a week of that vacation time doing something you want and a week of vacation time doing something together. Because at some point you will have no choice but to do all your things together because you'll have kids and they will come first.
 - prioritizing is the key to productivity
 - be honest even when it is hard, including in telling people their flaws even in important relationships especially if it is something that when pointed out could help them be a better person or be more successful in other relationships
+- most problems in our lives are our own fault one way or another
+    - either we cause them, we let them happen, we don't say no to something, or we refuse to walk away or cut something out of our life
 
 Make sure to connect the articles that are related even if by only a link
 
