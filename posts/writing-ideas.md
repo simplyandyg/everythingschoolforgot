@@ -21,6 +21,9 @@ What's the 1 percent?
 
 What are the absolute most important things someone should know about life?
 
+Letter to my kids:
+I originally started this project to teach you so many of the things I have read about. I wanted to teach you things so that you could be successful. But that's not the most important thing in life. More than anything I want you to be happy, and more than that I want you to be content. I want you to live a life YOU can look at now and in 50 years and be happy with. I want you to be able to chase the things you want while also being grateful for and appreciating the things you have.
+
 If you could only teach someone 5 things. What would you teach them?
 
 Stop and smell the roses. Learn to appreciate what you have
@@ -43,6 +46,7 @@ Next 5
 11. Conflict resolution
 12. How to figure out if you like something or actually want to do it - see frameworks
 13. Patience
+14. Learning to be happy with what you have while also knowing it is okay to want more
 
 
 - Sleep, exercise, diet
