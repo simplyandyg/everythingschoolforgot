@@ -1,11 +1,11 @@
 ---
-title: On Sleep, Diet, and Exercise
+title: (WIP) On Sleep, Diet, and Exercise
 authors: [agiroux]
 tags: [health, sleep, diet, exercise]
-permalink: false
-eleventyExcludeFromCollections: true
 layout: layouts/post.njk
 ---
+
+This is still a work in progress (WIP)
 
 Sleep. Eat clean. Exercise. If I had to put an order to their importance that would be it, despite exercise being my favorite.
 

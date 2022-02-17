@@ -108,6 +108,7 @@ Next 5
 - be honest even when it is hard, including in telling people their flaws even in important relationships especially if it is something that when pointed out could help them be a better person or be more successful in other relationships
 - most problems in our lives are our own fault one way or another
     - either we cause them, we let them happen, we don't say no to something, or we refuse to walk away or cut something out of our life
+- learning that reframing something in your own mind is a possible and can be a powerful and helpful tool to have
 
 Make sure to connect the articles that are related even if by only a link
 
