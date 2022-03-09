@@ -12,17 +12,19 @@ Sleep. Eat clean. Exercise. If I had to put an order to their importance that wo
 Disclaimer:
 I'm not a medical professional, dietician, or certified personal trainer. So none of this is medical advice. I'm just a guy who reads a lot, is constantly trying to improve myself and my life, and wants to leave a record of those learnings for his kids.
 
-(Todo:
+Todo:
 
-What how why for the intro
+1. What how why for the intro - maybe
+2. Get into why staying healthy is important. It's not only to avoid illness or living a long life. It's living with less pain and aggravation. Make you love slightly harder to avoid the truly difficult aspects of chronic illness
+3. Talk about habit in all 3 places or mention it at the end or beginning?
 
-Get into why staying healthy is important. It's not only to avoid illness or living a long life. It's living with less pain and aggravation. Make you love slightly harder to avoid the truly difficult aspects of chronic illness)
+
 
 ## Summary:
 
 **Sleep** 6 to 10 hours per night depending on your personal needs. Your bedtime and the amount of sleep should remain consistent - go to bed and wake up at the same time every day.
 
-**Eat** **clean**. Avoid processed food.
+**Eat clean**. Avoid processed food.
 
 **Exercise** 4-6 days per week. 20-60 minutes of moderate-intensity* exercise per session. _Almost_ any exercise is better than nothing. Consistency and proper form are the two most important things.
 
@@ -30,7 +32,7 @@ Get into why staying healthy is important. It's not only to avoid illness or liv
 
 Benefits:
 
-The benefits of doing those three things are innumerable. Regardless, I'll list some of the best ones. Sleeping well, eating well, and exercising can help you to:
+The benefits of proper sleep, clean eating, and consistent exercise are innumerable. Regardless, I'll list some of the best ones. Sleeping well, eating well, and exercising can help you to:
 
 
 
