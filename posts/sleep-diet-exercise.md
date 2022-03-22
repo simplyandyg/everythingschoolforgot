@@ -15,7 +15,7 @@ I'm not a medical professional, dietician, or certified personal trainer. So non
 Todo:
 
 1. What how why for the intro - maybe
-2. Get into why staying healthy is important. It's not only to avoid illness or living a long life. It's living with less pain and aggravation. Make you love slightly harder to avoid the truly difficult aspects of chronic illness
+2. Get into why staying healthy is important. It's not only to avoid illness or living a long life. It's living with less pain and aggravation. Make you liqve slightly harder to avoid the truly difficult aspects of chronic illness
 3. Talk about habit in all 3 places or mention it at the end or beginning?
 
 
@@ -70,7 +70,7 @@ The benefits of proper sleep, clean eating, and consistent exercise are innumera
 
 The benefits of sleep, eating well, and exercise overlap, intertwine, and build on each other. Improved sleep and eating clean help exercise performance. Eating clean and exercise helps with better sleep, which then improves exercise performance. See what I mean?
 
-Lacking in any of these categories can lead to serious health problems.
+Lacking in any of the three categories can lead to serious health problems.
 
 **If we aren’t trying to be elite athletes...**
 We don’t need to train like elite athletes.
