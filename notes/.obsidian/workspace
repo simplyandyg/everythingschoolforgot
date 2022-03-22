@@ -1,0 +1,79 @@
+{
+  "main": {
+    "id": "cb56b5dcd1cd21b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf6f10c0fc8c8471",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "marriage-advice.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "653c7dd4bc89ad2d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d81219aaf3d465ef",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "7ad19267455e90ba",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "58d75c93addafdb2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2b1339413feecabe",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "marriage-advice.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "bf6f10c0fc8c8471",
+  "lastOpenFiles": [
+    "marriage-advice.md"
+  ]
+}
