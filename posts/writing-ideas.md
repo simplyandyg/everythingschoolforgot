@@ -394,5 +394,9 @@ The idea here was that I would post this to everythingschoolforgot.com and my tw
 [https://twitter.com/simplyandyg/status/1400268161614635010](https://twitter.com/simplyandyg/status/1400268161614635010)
 
 
-Truth in the age of the internet
+**Truth in the age of the internet**
 https://twitter.com/simplyandyg/status/1460242977742229504?t=F0iJjxiSGMYtwAds4e0kow&s=19
+
+
+**Marriage Advice**
+https://twitter.com/simplyandyg/status/1506092909921071108?t=UgMhuoLMFINmuJh5inl4eg&s=19
