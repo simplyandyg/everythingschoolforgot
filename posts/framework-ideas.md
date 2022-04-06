@@ -9,6 +9,8 @@ eleventyExcludeFromCollections: true
 - how to make difficult or important decisions
 - how to distinguish important from unimportant decisions
 - how to get things done
+- how to get out of a procrastination rut
+    - https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html
 - how to learn
     - https://twitter.com/SahilBloom/status/1505882809700962304?t=Or8GquF5GPTxgeUz8kTk-g&s=19
 - how to build habits
