@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "marriage-advice.md",
+            "file": "book-notes/talking-so-little-kids-will-listen.md",
             "mode": "source",
             "source": false
           }
@@ -58,7 +58,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "marriage-advice.md",
+            "file": "book-notes/talking-so-little-kids-will-listen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -74,6 +74,15 @@
   },
   "active": "bf6f10c0fc8c8471",
   "lastOpenFiles": [
-    "marriage-advice.md"
+    "book-notes/talking-so-little-kids-will-listen.md",
+    "relationships/parenting-advice.md",
+    "business/real-estate/strip-malls.md",
+    "business/smb-acquisitions.md",
+    "reading-list.md",
+    "software/app-to-connect-customers-and-smb.md",
+    "relationships/marriage-advice.md",
+    "business/partnership-business.md",
+    "parenting-advice5.md",
+    "partnership-business2.md"
   ]
 }
