@@ -10,3 +10,7 @@ Recommend businesses to a friend via email/text/or maybe within the app
 
 Before we have any ratings we could just be an aggregate search for Angi's list, Home advisor, Google, Yelp, Facebook, etc
 - Assuming home advisor and Angie's list have APIs
+
+#idea
+#app
+#software

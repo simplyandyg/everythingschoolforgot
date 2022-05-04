@@ -29,3 +29,6 @@ eleventyExcludeFromCollections: true
     - not being afraid to tell your boss you have too many meetings and or not enough time to sit down and really deeply focus for an extended period and do your most productive work
     - planning your day so that you can get the important things done and not get pulled away by unimportant tasks
     - having a framework that your life is built around to be the most productive you can be while keeping stress to a minimum in making time for other things that are important like relaxing, family, and friends
+- how to reframe your mindset and shift your perspective
+    - changes things from an "i have to do this" to an "i get to do this" viewpoint
+    - which turns things into a chance for growth, learning, wisdom, and understanding
