@@ -116,3 +116,23 @@ https://www.evernote.com/shard/s4/sh/13b4923d-6188-f53f-3b1f-d4f30b1d9b8c/c78696
 		1. Having the list of solutions physically with you may excite them. They may be happy and excited to try the solutions they helped come up with
 		2. If it doesn't work, it's time to go back to the drawing board
 	3. A simpler approach to problem solving with your child, is to ask them. Them? "What can we do to fix this?" when something has gone wrong or they notice something is wrong. Instead of telling them what to do or how they should fix it
+
+# Things to avoid
+1. Rewards
+	1. Rewards can backfire in a number of ways
+	2. Also leads to expectation of rewards in other scenarios
+	3. The opposite of "you'll get the reward if you do this" is "you won't get the reward if you don't do this", which is not something that breeds cooperation
+	4. If the reward is not earned, it can lead to a tantrum
+2. Timeouts
+	1. It doesn't necessarily work the way we think it does
+	2. If your child is still angry well in the time out and they are not going to listen to what you are telling them while they are sitting there. So they are not absorbing the advice and information you are giving them
+	3. They may also blame anything other than themselves for why they are in the time out. If the time out stem from a fight with a sibling, they may blame the sibling
+	4. In general, it's just better to let them know what they did wrong, and work with them on how they can avoid that in the future
+
+# how to offer praise
+1. Instead of judging and evaluating and saying whether something is good or bad, say what you see, describe it
+	1. Instead of good job coloring. Try I see green lines zooming all around the page and red circles
+	2. Instead of just saying good job, try saying I noticed you picked up all the cars and the blocks. That was a big job
+3. Describe what the child did and their effort with appreciation
+	1. Wow you work through all those math problems
+	2. Nice, you stuck with it until you finish them all and figure it out

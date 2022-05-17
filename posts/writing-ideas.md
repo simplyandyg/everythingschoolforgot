@@ -47,6 +47,7 @@ Next 5
 12. How to figure out if you like something or actually want to do it - see frameworks
 13. Patience
 14. Learning to be happy with what you have while also knowing it is okay to want more
+15. What matters in life based on the top 5 death bed regrets? https://twitter.com/aaditsh/status/1521868886504873984?t=eF3dZqC9svN_im0704mN6w&s=19
 
 
 - Sleep, exercise, diet
