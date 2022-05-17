@@ -5,9 +5,9 @@ tags: [health, sleep, diet, exercise]
 layout: layouts/post.njk
 ---
 
-This is still a work in progress (WIP)
+This article still a work in progress (WIP)
 
-Sleep. Eat clean. Exercise. If I had to put an order to their importance that would be it, despite exercise being my favorite.
+**Sleep. Eat clean. Exercise.** If I had to put an order to their importance that would be it, despite exercise being my favorite.
 
 Disclaimer:
 I'm not a medical professional, dietician, or certified personal trainer. So none of this is medical advice. I'm just a guy who reads a lot, is constantly trying to improve myself and my life, and wants to leave a record of those learnings for his kids.
@@ -227,7 +227,7 @@ I understand this may seem excessive. I don't expect anyone to do it all. Not ev
 
 ### What is clean eating?
 
-Clean eating means eating whole, unprocessed foods. Ideally it means doing so as a lifestyle choice and not as a short-term, quick fix diet. 
+Clean eating means eating whole, unprocessed foods. Ideally it means doing so as a lifestyle choice and not as a short-term, quick fix diet.
 
 Not eating processed food.
 
@@ -238,7 +238,7 @@ Yo-yo dieting and crash diets
 It's a lifestyle choice more than it is a diet. And it's a guideline more than it is a hard and fast rule.
 
 ### Why is a clean eating lifestyle important?
-#### Clean eating often makes it easier to maintain a healthy weight. 
+#### Clean eating often makes it easier to maintain a healthy weight.
 
 Whole, unprocessed foods don't have added sugar and aren't fried in fatty oils. Sugar (carbs) and oil (fats) are not inherently bad for you. They are in pretty much everything we eat whether natural or unnatural. But processed foods tend to be unnaturally jam-packed with them. It's this overabundance of macronutrients and therefore calories that contributes to why eating processed foods makes it so easy to consume too many calories. Excess calories combined with suspect ingredients and the fact that processed foods are often literally engineered to make you want to eat more all create the perfect storm for an unhealthy diet.
 
