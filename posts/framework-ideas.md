@@ -13,6 +13,8 @@ eleventyExcludeFromCollections: true
     - https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html
     - https://waitbutwhy.com/2013/11/how-to-beat-procrastination.html
     - https://waitbutwhy.com/2015/03/procrastination-matrix.html
+    - https://twitter.com/SahilBloom/status/1489968127588851724?t=xx0w0uVzxLCOWPJYFw4elw&s=19
+    - https://twitter.com/mar15sa/status/1262923305884897280?s=20&t=FjYlnzIPDpcORUTmcuO0eg
 - how to learn
     - https://twitter.com/SahilBloom/status/1505882809700962304?t=Or8GquF5GPTxgeUz8kTk-g&s=19
 - how to build habits
@@ -32,3 +34,6 @@ eleventyExcludeFromCollections: true
 - how to reframe your mindset and shift your perspective
     - changes things from an "i have to do this" to an "i get to do this" viewpoint
     - which turns things into a chance for growth, learning, wisdom, and understanding
+
+**Inspiration**
+The frameworks guy on Twitter
