@@ -15,6 +15,7 @@ eleventyExcludeFromCollections: true
     - https://waitbutwhy.com/2015/03/procrastination-matrix.html
     - https://twitter.com/SahilBloom/status/1489968127588851724?t=xx0w0uVzxLCOWPJYFw4elw&s=19
     - https://twitter.com/mar15sa/status/1262923305884897280?s=20&t=FjYlnzIPDpcORUTmcuO0eg
+    - Procrastination as an illusion of wanting to do nothing
 - how to learn
     - https://twitter.com/SahilBloom/status/1505882809700962304?t=Or8GquF5GPTxgeUz8kTk-g&s=19
 - how to build habits

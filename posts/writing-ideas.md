@@ -51,6 +51,8 @@ Next 5
     2. https://twitter.com/SahilBloom/status/1529450818486796289?t=Dk0RvfmYRJN1YfujH4kNsQ&s=19
 15. What matters in life based on the top 5 death bed regrets? https://twitter.com/aaditsh/status/1521868886504873984?t=eF3dZqC9svN_im0704mN6w&s=19
 
+Procrastination as an illusion of wanting to do nothing
+
 
 - Sleep, exercise, diet
 - Be open and vulnerable, but don't get walked on. Limit the numbers of times a single person can screw you over.
