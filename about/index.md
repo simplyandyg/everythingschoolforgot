@@ -19,6 +19,8 @@ Twitter: [@simplyandyg](https://twitter.com/simplyandyg)
 
 Quora: [Andy Giroux](https://www.quora.com/profile/Andy-Giroux)
 
+LinkedIn: [Andy Giroux](https://www.linkedin.com/in/andygiroux/)
+
 Interests:
 - Fitness
 - Reading

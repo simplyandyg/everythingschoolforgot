@@ -4,6 +4,12 @@ eleventyNavigation:
   key: Home
   order: 1
 ---
+<div>
+    <p>
+        My weekly newsletter with some of world's most popular stories: <a href="https://app.mailbrew.com/simplyandyg/world-news-weekly-iikYl1HTeSqa">World News Weekly</a>
+    </p>
+</div>
+
 {% set maxPosts = collections.posts.length | min(3) %}
 <h1>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h1>
 
