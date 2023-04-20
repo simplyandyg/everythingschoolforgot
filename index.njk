@@ -7,6 +7,11 @@ eleventyNavigation:
 <div>
     <p>
         My weekly newsletter with some of world's most popular stories: <a href="https://app.mailbrew.com/simplyandyg/world-news-weekly-iikYl1HTeSqa">World News Weekly</a>
+
+        <br>
+        <br>
+
+        Almost every post is a living document or work in progress so don't be surprised by sentence fragments and gibberish.
     </p>
 </div>
 
@@ -16,7 +21,5 @@ eleventyNavigation:
 {% set postslist = collections.posts | head(-3) %}
 {% set postslistCounter = collections.posts | length %}
 {% include "postslist.njk" %}
-
-<h1>The important ones for my kids</h1>
 
 <p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>

@@ -1,5 +1,5 @@
 ---
-title: (WIP) On Sleep, Diet, and Exercise
+title: On Sleep, Diet, and Exercise
 authors: [agiroux]
 tags: [health, sleep, diet, exercise]
 layout: layouts/post.njk
@@ -14,7 +14,7 @@ I'm not a medical professional, dietician, or certified personal trainer. So non
 
 Todo:
 
-1. What how why for the intro - maybe
+1. What why how for the intro - maybe
 2. Get into why staying healthy is important. It's not only to avoid illness or living a long life. It's living with less pain and aggravation. Make you liqve slightly harder to avoid the truly difficult aspects of chronic illness
 3. Talk about habit in all 3 places or mention it at the end or beginning?
 
@@ -28,13 +28,11 @@ Todo:
 
 **Exercise** 4-6 days per week. 20-60 minutes of moderate-intensity* exercise per session. _Almost_ any exercise is better than nothing. Consistency and proper form are the two most important things.
 
-*Above I say to aim for moderate-intensity exercise. If you have not exercised for an extended period of time then you should start off slow. It is important to avoid injury. Beginning with low-intensity exercise allows your body time to adapt to exercise.
+*NOTE: Above I say to aim for moderate-intensity exercise. If you have not exercised for an extended period of time then you should start off slow. It is important to avoid injury. Beginning with low-intensity exercise allows your body time to adapt to exercise.
 
 Benefits:
 
 The benefits of proper sleep, clean eating, and consistent exercise are innumerable. Regardless, I'll list some of the best ones. Sleeping well, eating well, and exercising can help you to:
-
-
 
 * Improve immune function
 * Reduce risk of many illnesses
@@ -220,9 +218,6 @@ As mentioned above, feel free to add 15-30 minutes of buffer time to help ensure
 #### Last word on sleep
 I understand this may seem excessive. I don't expect anyone to do it all. Not everyone needs it all. It's about being honest with yourself about your needs and finding what works for you.
 
-
-(Breaking down eating is next after how to improve sleep quality)
-
 ## Eat Clean.
 
 ### What is clean eating?
@@ -233,12 +228,21 @@ Not eating processed food.
 
 Honestly, that's pretty much all there is to it. But I'll expand upon it anyway.
 
-Yo-yo dieting and crash diets
+Yo-yo dieting and crash diets are not what I mean by eating well. Everyone loves losing weight fast. However, many people go back to unhealthy eating habits after a crash diet. This leaves you very likely to gain back the weight. Not to mention being at risk for any number of health problems. It's about a shift in mentality and not seeing diets as something you "have to do for a little while" to lose weight, but rather eating well to feel better all the time. Yes, it can be hard, but it gets easier with time.
 
 It's a lifestyle choice more than it is a diet. And it's a guideline more than it is a hard and fast rule.
 
+*NOTE: When I say unprocessed foods, I mean food with little to no processing. Some people argue that all foods are "processed" to some extent. Sure. Most are. But there's a major difference between bananas being picked from a tree and transported or beef being cut from the cow and ground up than what goes into a McDonald's chicken nugget.*
+
+#### Organic vs clean/whole foods
+There can be potential advantages to choosing the organic version of a food. "Organic foods have specific standards on how the food is produced, handled, processed, and marketed. Farming organically is a production process that avoids or mainly excludes using synthetic fertilizers and pesticides. Labeling a food as organic is describing the food based on the process in which it was made and *not the product itself*." https://www.massey.ac.nz/massey/fms/campuses/Palmerston%20North/Documents/Recreation/Organics.pdf
+
+Whole foods are foods with little to no processing. Good examples of whole foods are fruits and vegetables. Whole foods may be organic or not. And food that is labeled organic may not be whole foods. Food that are organic but highly processed are most likely not the healthiest option. If the choice is between something that is organic but processed (e.g. an organic oreo) or a not organic whole food (e.g. non-organic banana), I would choose the non-organic whole food as the healthiest option.
+
+Some people say "sugar is sugar", and claim that eating a banana is just as bad as eating an Oreo. However, an Oreo is pretty much all sugar and fat with little to no other nutritional value - otherwise known as empty calories. Whereas bananas and other fruits and vegetables provide numerous other nutritional benefits such as fiber, vitamins, and minerals.
+
 ### Why is a clean eating lifestyle important?
-#### Clean eating often makes it easier to maintain a healthy weight.
+#### Clean eating can make it easier to maintain a healthy weight.
 
 Whole, unprocessed foods don't have added sugar and aren't fried in fatty oils. Sugar (carbs) and oil (fats) are not inherently bad for you. They are in pretty much everything we eat whether natural or unnatural. But processed foods tend to be unnaturally jam-packed with them. It's this overabundance of macronutrients and therefore calories that contributes to why eating processed foods makes it so easy to consume too many calories. Excess calories combined with suspect ingredients and the fact that processed foods are often literally engineered to make you want to eat more all create the perfect storm for an unhealthy diet.
 
@@ -257,20 +261,15 @@ Absolutely. It's not impossible to overeat when eating clean. Like any food choi
 
 This means by simply switching to clean eating many people will be consuming less calories each day, which is the core concept behind trying to lose weight. Add exercise on top of that, and you've found a great recipe for becoming healthier.
 
-NOTE FOR ME:
-Why section might be done. Sort through the bottom and see if there is more to add. If not, move on to how
-
 ### How do I develop a clean eating lifestyle?
-Shop at the edges of the grocery store. The middle is generally all processed food. And no, organic does not mean whole, unprocessed food.
+Shop at the edges of the grocery store. The middle is generally all processed food. It's also important to understand that organic does not mean whole, unprocessed food. As I explained above.
 
-Explain whole food vs organic at some point.
+If this sounds overwhelming, I understand. But it doesn't have to be. Break it down into steps. Choosing to eat clean doesn't have to happen overnight. It can be done one meal at a a time. Or even part of a meal to start. If it's easier start by just eating one whole food with your Monday dinner each week this month. Then next month, make it Monday and Wednesday dinner. If you assume that you eat 21 meals per week. Then in 21 weeks, or a little over 5 months, you'll be eating whole foods with every meal. Either at that point or somewhere in the middle, you can make an entire meal of whole, unprocessed foods, and go through a similar "one step at a time" approach. And again, you don't have to be fanatical about it. If 80-90% of your meals are "clean", you're doing pretty good... As long as the rest aren't full half gallons of ice cream :)
 
-Misc:
+Eating well is simpler than many make it sound. People tend to push fad diets. People tend to be fanatical about their lifestyle diets (think "the carnivore diet"). I'm not saying fad diets don't work. I'm not saying lifestyle diets don't work. I'm saying it is possible to avoid being a zealot while maintaining healthy eating habits by following a few simple guidelines. 
 
-Crash diets are not what I mean by eating well. Everyone loves losing weight fast. Many people go back to unhealthy eating habits after a crash diet. This leaves you very likely to gain back the weight. Not to mention being at risk for any number of health problems.
+The common denominator between different diet fanatics is to avoid processed foods. Eating whole, unprocessed foods is your guideline to lifelong healthy eating habits. I think vegetables, fruits, meats, fish, etc. are all fine as long as they have little to no processing.
 
-_put the below in How_
-Eating well is simpler than many make it sound. People tend to push fad diets. People tend to be fanatical about their lifestyle diets. I'm not saying fad diets don't work. I'm not saying lifestyle diets don't work. I'm saying it is possible to avoid being a zealot while maintaining healthy eating habits by following a few simple guidelines. The common denominator between different diet fanatics is to avoid processed foods. Eating whole, unprocessed foods is your guideline to lifelong healthy eating habits. I think vegetables, fruits, meats, fish, etc. are all fine as long as they are not processed.
 
 _in how?_
 Consider taking a quality multivitamin. Some people will argue healthy adults eating a healthy, balanced diet do not need one. They may be right. But if it isn't doing harm, why not hedge your bets? According to studies, a multivitamin may also have a positive effect on mental health. I specify a "quality" multivitamin for a reason. The government does not regulate the vitamin and supplement industry. Leading some companies to be inaccurate with the labels on their vitamin and supplement products. This is why you should choose a vitamin from a company you trust.

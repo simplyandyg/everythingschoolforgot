@@ -2,7 +2,7 @@
 title: Do the Right Thing
 authors: [agiroux]
 date: 2020-04-04
-tags: [people, relationships]
+tags: [people, relationships, morality, ethics, conscience]
 layout: layouts/post.njk
 ---
 
