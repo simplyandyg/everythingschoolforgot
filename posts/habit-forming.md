@@ -19,3 +19,6 @@ Or beating procrastination and learning to focus
 Or building a business
 
 For the sake of simplicity, we can use the acronym bils for break into little steps
+
+Use "bright line" rules to clearly define your habits and behaviors
+https://jamesclear.com/bright-lines

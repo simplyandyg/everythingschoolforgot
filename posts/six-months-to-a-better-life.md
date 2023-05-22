@@ -13,3 +13,6 @@ Do each for 1 minute per day for a week. Then each week increase the length of t
 
 Don't think you can commit to all 3? Try just 2. Don't think you can commit to 2? Try just 1. When you think you're committed and then habit is engrained, add a second one.
 
+#habits
+#habit-forming
+[[habit-forming]]

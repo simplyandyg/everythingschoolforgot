@@ -5,20 +5,10 @@ tags: [health, sleep, diet, exercise]
 layout: layouts/post.njk
 ---
 
-This article still a work in progress (WIP)
-
 **Sleep. Eat clean. Exercise.** If I had to put an order to their importance that would be it, despite exercise being my favorite.
 
 Disclaimer:
 I'm not a medical professional, dietician, or certified personal trainer. So none of this is medical advice. I'm just a guy who reads a lot, is constantly trying to improve myself and my life, and wants to leave a record of those learnings for his kids.
-
-Todo:
-
-1. What why how for the intro - maybe
-2. Get into why staying healthy is important. It's not only to avoid illness or living a long life. It's living with less pain and aggravation. Make you liqve slightly harder to avoid the truly difficult aspects of chronic illness
-3. Talk about habit in all 3 places or mention it at the end or beginning?
-
-
 
 ## Summary:
 
@@ -28,7 +18,7 @@ Todo:
 
 **Exercise** 4-6 days per week. 20-60 minutes of moderate-intensity* exercise per session. _Almost_ any exercise is better than nothing. Consistency and proper form are the two most important things.
 
-*NOTE: Above I say to aim for moderate-intensity exercise. If you have not exercised for an extended period of time then you should start off slow. It is important to avoid injury. Beginning with low-intensity exercise allows your body time to adapt to exercise.
+_*NOTE: Above I say to aim for moderate-intensity exercise. If you have not exercised for an extended period of time then you should start off slow. It is important to avoid injury. Beginning with low-intensity exercise allows your body time to adapt to exercise._
 
 Benefits:
 
@@ -93,6 +83,9 @@ Most fitness gurus and influencers today sell athleticism and extremes, not heal
 
 It's easy to get stuck in trying to squeeze out every ounce of physical performance. If your goal is to be a pro athlete, optimizing makes sense. It's overkill if you're simply aiming to be healthy.
 
+The point of putting in the effort for consistent, quality sleep, healthy eating habits, and exercise is that you put in a smaller amount of hard work and effort than is required when dealing with majorly difficult issues associated with chronic illnesses and pain.
+
+If you're having trouble sticking to a good routine. Check out what I've written on [[habit-forming|habit forming]] where talk about how breaking things down into tiny steps and adding more over time can result in big changes.
 
 ## Sleep.
 
@@ -257,7 +250,7 @@ There is scientific evidence to support a food-based approach to many health iss
 If you struggle to lose weight or consistently find yourself feeling sick, nauseous, run-down, tired, dizzy, etc, you should seek out help from professionals. You may have a slight allergy to a food, which may only show up in you as lethargy and not a violent reaction. You could consider finding a doctor who specializes in diet-based medicine.
 
 #### Can clean eating help me lose weight?
-Absolutely. It's not impossible to overeat when eating clean. Like any food choice, you can consume too many calories when eating clean. However, in general, it is more difficult to consume excess calories when eating clean than when eating processed foods. (Look for study to back this up). By this I mean, snacking on strawberries instead of Oreos will likely lead to consuming fewer calories.
+Absolutely. It's possible to overeat when eating clean. Like any food choice, you can consume too many calories when eating clean. However, in general, it is more difficult to consume excess calories when eating clean than when eating processed foods because processed foods are often jammed with added sugars and fats. For example, snacking on strawberries instead of Oreos will likely lead to consuming fewer calories.
 
 This means by simply switching to clean eating many people will be consuming less calories each day, which is the core concept behind trying to lose weight. Add exercise on top of that, and you've found a great recipe for becoming healthier.
 
@@ -270,17 +263,13 @@ Eating well is simpler than many make it sound. People tend to push fad diets. P
 
 The common denominator between different diet fanatics is to avoid processed foods. Eating whole, unprocessed foods is your guideline to lifelong healthy eating habits. I think vegetables, fruits, meats, fish, etc. are all fine as long as they have little to no processing.
 
-
-_in how?_
-Consider taking a quality multivitamin. Some people will argue healthy adults eating a healthy, balanced diet do not need one. They may be right. But if it isn't doing harm, why not hedge your bets? According to studies, a multivitamin may also have a positive effect on mental health. I specify a "quality" multivitamin for a reason. The government does not regulate the vitamin and supplement industry. Leading some companies to be inaccurate with the labels on their vitamin and supplement products. This is why you should choose a vitamin from a company you trust.
-
-Why unprocessed, whole foods?
+### Why unprocessed, whole foods?
 
 One reason, it is harder to overconsume calories when eating whole, unprocessed foods. By this I mean, snacking on strawberries instead of Oreos will likely lead to consuming fewer calories.
 
-Another reason why the guideline of unprocessed, whole foods is great? The simplicity. It's pretty simple compared to the rules of some diets. I'm not saying it's easy to stick to, but simple and easy are two different things. The FDA requires nutrition labels, but they can be tricky to read. Sugar comes in many forms these days. A quick Google search will yield a massive list. There are also many kinds of oils out there. Some are perfectly healthy when eaten in moderation. Others, not so much. Moral of the story: it's much simple to stick with whole foods than to find healthy processed foods.
+Want aother reason why the guideline of unprocessed, whole foods is great? The simplicity. It's pretty simple compared to the rules of some diets. I'm not saying it's easy to stick to, but simple and easy are two different things. The FDA requires nutrition labels, but they can be tricky to read. Sugar comes in many forms these days. A quick Google search will yield a massive list. There are also many kinds of oils out there. Some are perfectly healthy when eaten in moderation. Others, not so much. Moral of the story: it's much simple to stick with whole foods than to find healthy processed foods.
 
-While added sugars and oils make processed foods tasty. They add a ton of extra and unnecessary calories. Not only your body is negatively affected by added sugars and oils. Your brain, your gut biome, and sleep are as well.
+While added sugars and oils make processed foods tasty. They add a ton of extra calories. Not only can your body is negatively affected by added sugars and oils. Your brain, your gut biome, and sleep may be as well.
 
 But fruits and vegetables contain sugar… So is it okay to consume them? There are people who argue it is not. For the diets of most people, I disagree. It's okay to consume fruits and vegetables. Here's a quote from a Harvard Health article on the topic:
 
@@ -293,7 +282,6 @@ Keep in mind that added sugars, even if natural, are still not ideal. Eating 20 
 Here's a couple more articles on processed and added sugars:
 
 [https://www.health.harvard.edu/heart-health/the-sweet-danger-of-sugar#:~:text=%22The%20effects%20of%20added%20sugar,Hu](https://www.health.harvard.edu/heart-health/the-sweet-danger-of-sugar#:~:text=%22The%20effects%20of%20added%20sugar,Hu).
-
 [https://www.webmd.com/diabetes/features/how-sugar-affects-your-body](https://www.webmd.com/diabetes/features/how-sugar-affects-your-body)
 
 Also, alcohol is sugar. There are studies showing that moderate alcohol consumption may provide health benefits. There are also studies that show negative effects ranging from sleep problems to causal links of some cancers. The equivalent of one shot, one glass of one, or one bottle of beer a day may be okay, but more than that is probably not. And no, you can't average it out. By that I mean, binging on the weekends and not drinking during the week is not helping your case for being healthy.
@@ -308,8 +296,6 @@ Earlier, I alluded to not having to worry about your macronutrient splits if you
 Sustainable fitness is what most people should be chasing. It doesn't sound sexy like "6 pack abs in 6 weeks" does, but it's also achievable and not a blatant clickbait lie.
 
 The 3 most important things to remember when exercising are:
-
-
 
 1. Proper form.
 2. Take it slow.
